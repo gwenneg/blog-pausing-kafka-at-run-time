@@ -1,0 +1,1 @@
+Learn how the `PausableChannel` API from SmallRye Reactive Messaging can help you pause the consumption of Kafka messages at run time in a Quarkus app: [Pausing Kafka at run time with Quarkus](https://gwenneg.com/2025/02/09/pausing-kafka-at-run-time.html).
